@@ -1,5 +1,5 @@
 ﻿#Mihkel Kuusemäe
-#09.26.23
+#10.01.23
 #4. Loo PS skript, mis loob failides olevale kasutajale temanimelise kataloogi koos tema andmetega (customers.xml)
 #küsib kasutajalt xml failinime
 #kui fail pole xml, siis programm annab sellest teada ja küsib uuesti
